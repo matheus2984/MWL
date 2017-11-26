@@ -1,0 +1,5 @@
+MWL		KEYWORD1
+Init_Master	KEYWORD2
+Init_Slave	KEYWORD2
+AwaitMessage	KEYWORD2
+SendMessage	KEYWORD2
